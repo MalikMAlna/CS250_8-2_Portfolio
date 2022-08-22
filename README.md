@@ -6,7 +6,7 @@ One can establish an understanding of the initial requirements of a project by u
 
 - How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-In my current role as a software developer, we mostly use some weird combination of waterfall and agile with mixed results at best. I would personally prefer to adopt more agile practices such as estimation meetings for features, an actual sprint that we try to follow over a period of a week and a half to two weeks, a sprint retrospective meeting, and actually having some acting as the designated Scrum Master and/or agile lead as opposed to each of the developers on my team, myself included, filling in those holes as we go along. 
+In my current role as a software developer, we mostly use some weird combination of waterfall and agile with mixed results at best. I would personally prefer to adopt more agile practices such as estimation meetings for features, an actual sprint that we try to follow over a period of a week and a half to two weeks, a sprint retrospective meeting, and actually having someone acting as the designated Scrum Master and/or agile lead as opposed to each of the developers on my team, myself included, filling in those holes as we go along. 
 
 - What does it mean to be a good team member in software development?
 
